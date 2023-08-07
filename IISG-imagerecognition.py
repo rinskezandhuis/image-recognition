@@ -24,11 +24,13 @@ for filename in glob.glob(path + "/**/*.jpg"):
 num_images = len(image_list)
 print(num_images)
 
-x = 2000
+x = 0
 
-sub_list = image_list[x:x+500]
+#x:x+500
+sub_list = image_list[x:x+10]
 
-while x < num_images:
+# < num_images
+while x < 10:
     dataframe = pd.DataFrame({'image':[],'object':[],'probability':[],'coordinates':[]})
     
     for im in sub_list:
@@ -42,11 +44,11 @@ while x < num_images:
         if number_obj > 0:
                 
             for box in result.boxes:
-                class_id = result.names[box.cls[0].item()]
+                class_id = box.cls[0].item()
                 cords = box.xyxy[0].tolist()
                 cords = [round(x) for x in cords]
                 conf = round(box.conf[0].item(), 2)
-                dataframe = dataframe.append({ 'image': im.filename, 'object' : class_id, 'probability' : conf, 'coordinates': cords}, ignore_index=True)
+                dataframe = dataframe.append({ 'image': im.filename[14:28], 'object' : class_id, 'probability' : conf, 'coordinates': cords}, ignore_index=True)
         
         print(dataframe.tail(1))
         print(x)
@@ -58,7 +60,3 @@ while x < num_images:
 
 #probability_mask = dataframe['probability'] > 0.7
 #dataframe_high_probabilities = dataframe[probability_mask]
-
-#dataframe_high_probabilities.to_csv('data_high_probability.csv')
-#tail_dataframe = dataframe.tail(10)
-#print(tail_dataframe)
