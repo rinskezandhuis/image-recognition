@@ -4,12 +4,15 @@ Internationaal Instituut voor Sociale Geschiedenis (IISG), Amsterdam
 Nederlands:
 Het IISG is een onderzoeks instittuut, maar is daarnaast ook beheerder van vele archiefstukken, waaronder duizenden afbeelding. Vele van deze afbeeldingen zijn gedigitaliseerd maar kunnen nog niet gevonden worden in een zoekfunctie omdat ze nog weinig tot geen metadata bevatten.
 In twee weken heb ik geprobeerd om met imagerecognition vast te stellen wat er op foto’s staat. YOLO werd toegepast op de foto's (zo’n 2300) gemaakt door Ben van Meerendonk. YOLO kan onderwerpen herkennen uit een lijst van 80 onderwerpen waarop hij is getraint. Dit omvat bijvoorbeeld personen, auto's en stoelen. Bij iedere detectie van een onderwerp hoort een kans dat dit item daadwerkelijk op de afbeelding staat en zijn coordinaten. Het resultaat is een dataframe met vier kolommen: de afbeelding, het gedetecteerde item, de kans en de coordinaten.
+
 De code die ik hiervoor heb beschreven kun je vinden onder de naam IISG-imagerecognition.py
 
 Omdat het script niet kan runnen voor grote aantallen foto's, lees meer dan 1800, is ook een script geschreven dat csv-bestanden aan elkaar plakt tot één groot bestand.
+
 Deze code kun je vinden on de naam IISG-adding-files.py
 
 Om het project af te ronden werd van de data in een csv-bestand linked data gemaakt. Hiervoor werden relaties gemaakt tussen ...
+
 Deze code heeft de naam IISG-linked-data.py
 
 De resultaten/data van de foto's is terug te vinden op de website van het IISG
