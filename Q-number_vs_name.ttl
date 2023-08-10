@@ -1,0 +1,163 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://wikidata.org/entity/Q11442> rdfs:label "bicycle"^^xsd:string .
+
+<https://wikidata.org/entity/Q11748378> rdfs:label "cow"^^xsd:string .
+
+<https://wikidata.org/entity/Q127956> rdfs:label "microwave"^^xsd:string .
+
+<https://wikidata.org/entity/Q131514> rdfs:label "couch"^^xsd:string .
+
+<https://wikidata.org/entity/Q131689> rdfs:label "frisbee"^^xsd:string .
+
+<https://wikidata.org/entity/Q13191> rdfs:label "orange"^^xsd:string .
+
+<https://wikidata.org/entity/Q13276> rdfs:label "cake"^^xsd:string .
+
+<https://wikidata.org/entity/Q134205> rdfs:label "toothbrush"^^xsd:string .
+
+<https://wikidata.org/entity/Q140565> rdfs:label "sink"^^xsd:string .
+
+<https://wikidata.org/entity/Q1420> rdfs:label "car"^^xsd:string .
+
+<https://wikidata.org/entity/Q144> rdfs:label "dog"^^xsd:string .
+
+<https://wikidata.org/entity/Q146> rdfs:label "cat"^^xsd:string .
+
+<https://wikidata.org/entity/Q14748> rdfs:label "dinning table"^^xsd:string .
+
+<https://wikidata.org/entity/Q14890> rdfs:label "toaster"^^xsd:string .
+
+<https://wikidata.org/entity/Q15004> rdfs:label "hair drier"^^xsd:string .
+
+<https://wikidata.org/entity/Q15026> rdfs:label "chair"^^xsd:string .
+
+<https://wikidata.org/entity/Q15083> rdfs:label "giraffe"^^xsd:string .
+
+<https://wikidata.org/entity/Q1531435> rdfs:label "wine glass"^^xsd:string .
+
+<https://wikidata.org/entity/Q153362> rdfs:label "tennis racket"^^xsd:string .
+
+<https://wikidata.org/entity/Q153988> rdfs:label "bowl"^^xsd:string .
+
+<https://wikidata.org/entity/Q15783> rdfs:label "skateboard"^^xsd:string .
+
+<https://wikidata.org/entity/Q172226> rdfs:label "skis"^^xsd:string .
+
+<https://wikidata.org/entity/Q17517> rdfs:label "cell phone"^^xsd:string .
+
+<https://wikidata.org/entity/Q177> rdfs:label "pizza"^^xsd:string .
+
+<https://wikidata.org/entity/Q181055> rdfs:label "hot dog"^^xsd:string .
+
+<https://wikidata.org/entity/Q185091> rdfs:label "remote"^^xsd:string .
+
+<https://wikidata.org/entity/Q18545> rdfs:label "sports ball"^^xsd:string .
+
+<https://wikidata.org/entity/Q191851> rdfs:label "vase"^^xsd:string .
+
+<https://wikidata.org/entity/Q192783> rdfs:label "donut"^^xsd:string .
+
+<https://wikidata.org/entity/Q197> rdfs:label "airplane"^^xsd:string .
+
+<https://wikidata.org/entity/Q2000617> rdfs:label "snowboard"^^xsd:string .
+
+<https://wikidata.org/entity/Q200814> rdfs:label "suitcase"^^xsd:string .
+
+<https://wikidata.org/entity/Q204776> rdfs:label "bench"^^xsd:string .
+
+<https://wikidata.org/entity/Q213477> rdfs:label "teddy bear"^^xsd:string .
+
+<https://wikidata.org/entity/Q215627> rdfs:label "person"^^xsd:string .
+
+<https://wikidata.org/entity/Q250> rdfs:label "keyboard"^^xsd:string .
+
+<https://wikidata.org/entity/Q250429> rdfs:label "stop sign"^^xsd:string .
+
+<https://wikidata.org/entity/Q27993793> rdfs:label "potted plant"^^xsd:string .
+
+<https://wikidata.org/entity/Q28803> rdfs:label "sandwich"^^xsd:string .
+
+<https://wikidata.org/entity/Q289> rdfs:label "tv"^^xsd:string .
+
+<https://wikidata.org/entity/Q30090244> rdfs:label "bear"^^xsd:string .
+
+<https://wikidata.org/entity/Q32489> rdfs:label "knife"^^xsd:string .
+
+<https://wikidata.org/entity/Q32789> rdfs:label "zebra"^^xsd:string .
+
+<https://wikidata.org/entity/Q34493> rdfs:label "motorcycle"^^xsd:string .
+
+<https://wikidata.org/entity/Q35872> rdfs:label "boat"^^xsd:string .
+
+<https://wikidata.org/entity/Q36539> rdfs:label "oven"^^xsd:string .
+
+<https://wikidata.org/entity/Q376> rdfs:label "clock"^^xsd:string .
+
+<https://wikidata.org/entity/Q37828> rdfs:label "refrigerator"^^xsd:string .
+
+<https://wikidata.org/entity/Q3962> rdfs:label "laptop"^^xsd:string .
+
+<https://wikidata.org/entity/Q40847> rdfs:label "scissors"^^xsd:string .
+
+<https://wikidata.org/entity/Q41607> rdfs:label "umbrella"^^xsd:string .
+
+<https://wikidata.org/entity/Q42177> rdfs:label "bed"^^xsd:string .
+
+<https://wikidata.org/entity/Q42861> rdfs:label "kite"^^xsd:string .
+
+<https://wikidata.org/entity/Q43193> rdfs:label "truck"^^xsd:string .
+
+<https://wikidata.org/entity/Q44416> rdfs:label "tie"^^xsd:string .
+
+<https://wikidata.org/entity/Q457689> rdfs:label "surfboard"^^xsd:string .
+
+<https://wikidata.org/entity/Q467505> rdfs:label "handbag"^^xsd:string .
+
+<https://wikidata.org/entity/Q47722> rdfs:label "brocolli"^^xsd:string .
+
+<https://wikidata.org/entity/Q503> rdfs:label "banana"^^xsd:string .
+
+<https://wikidata.org/entity/Q5113> rdfs:label "bird"^^xsd:string .
+
+<https://wikidata.org/entity/Q5638> rdfs:label "bus"^^xsd:string .
+
+<https://wikidata.org/entity/Q571> rdfs:label "book"^^xsd:string .
+
+<https://wikidata.org/entity/Q5843> rdfs:label "backpack"^^xsd:string .
+
+<https://wikidata.org/entity/Q634299> rdfs:label "fire hydrant"^^xsd:string .
+
+<https://wikidata.org/entity/Q726> rdfs:label "horse"^^xsd:string .
+
+<https://wikidata.org/entity/Q7368> rdfs:label "sheep"^^xsd:string .
+
+<https://wikidata.org/entity/Q7378> rdfs:label "elephant"^^xsd:string .
+
+<https://wikidata.org/entity/Q7857> rdfs:label "toilet"^^xsd:string .
+
+<https://wikidata.org/entity/Q7987> rdfs:label "mouse"^^xsd:string .
+
+<https://wikidata.org/entity/Q8004> rdfs:label "traffic light"^^xsd:string .
+
+<https://wikidata.org/entity/Q80228> rdfs:label "bottle"^^xsd:string .
+
+<https://wikidata.org/entity/Q809894> rdfs:label "baseball glove"^^xsd:string .
+
+<https://wikidata.org/entity/Q809910> rdfs:label "baseball bat"^^xsd:string .
+
+<https://wikidata.org/entity/Q81> rdfs:label "carrot"^^xsd:string .
+
+<https://wikidata.org/entity/Q81727> rdfs:label "cup"^^xsd:string .
+
+<https://wikidata.org/entity/Q81881> rdfs:label "fork"^^xsd:string .
+
+<https://wikidata.org/entity/Q81895> rdfs:label "spoon"^^xsd:string .
+
+<https://wikidata.org/entity/Q870> rdfs:label "train"^^xsd:string .
+
+<https://wikidata.org/entity/Q89> rdfs:label "apple"^^xsd:string .
+
+<https://wikidata.org/entity/Q953960> rdfs:label "parking meter"^^xsd:string .
+
