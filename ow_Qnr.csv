@@ -1,0 +1,81 @@
+﻿id-number,object1,Q-number
+0.0,person,Q215627
+1.0,bicycle,Q11442
+2.0,car,Q1420
+3.0,motorcycle,Q34493
+4.0,airplane,Q197
+5.0,bus,Q5638
+6.0,train,Q870
+7.0,truck,Q43193
+8.0,boat,Q35872
+9.0,traffic light,Q8004
+10.0,fire hydrant,Q634299
+11.0,stop sign,Q250429
+12.0,parking meter,Q953960
+13.0,bench,Q204776
+14.0,bird,Q5113
+15.0,cat,Q146
+16.0,dog,Q144
+17.0,horse,Q726
+18.0,sheep,Q7368
+19.0,cow,Q11748378
+20.0,elephant,Q7378
+21.0,bear,Q30090244
+22.0,zebra,Q32789
+23.0,giraffe,Q15083
+24.0,backpack,Q5843
+25.0,umbrella,Q41607
+26.0,handbag,Q467505
+27.0,tie,Q44416
+28.0,suitcase,Q200814
+29.0,frisbee,Q131689
+30.0,skis,Q172226
+31.0,snowboard,Q2000617
+32.0,sports ball,Q18545
+33.0,kite,Q42861
+34.0,baseball bat,Q809910
+35.0,baseball glove,Q809894
+36.0,skateboard,Q15783
+37.0,surfboard,Q457689
+38.0,tennis racket,Q153362
+39.0,bottle,Q80228
+40.0,wine glass,Q1531435
+41.0,cup,Q81727
+42.0,fork,Q81881
+43.0,knife,Q32489
+44.0,spoon,Q81895
+45.0,bowl,Q153988
+46.0,banana,Q503
+47.0,apple,Q89
+48.0,sandwich,Q28803
+49.0,orange,Q13191
+50.0,brocolli,Q47722
+51.0,carrot,Q81
+52.0,hot dog,Q181055
+53.0,pizza,Q177
+54.0,donut,Q192783
+55.0,cake,Q13276
+56.0,chair,Q15026
+57.0,couch,Q131514
+58.0,potted plant,Q27993793
+59.0,bed,Q42177
+60.0,dinning table,Q14748
+61.0,toilet,Q7857
+62.0,tv,Q289
+63.0,laptop,Q3962
+64.0,mouse,Q7987
+65.0,remote,Q185091
+66.0,keyboard,Q250
+67.0,cell phone,Q17517
+68.0,microwave,Q127956
+69.0,oven,Q36539
+70.0,toaster,Q14890
+71.0,sink,Q140565
+72.0,refrigerator,Q37828
+73.0,book,Q571
+74.0,clock,Q376
+75.0,vase,Q191851
+76.0,scissors,Q40847
+77.0,teddy bear,Q213477
+78.0,hair drier,Q15004
+79.0,toothbrush,Q134205
